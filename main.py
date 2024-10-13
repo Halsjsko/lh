@@ -1,2 +1,1 @@
-print("This is the initial content.")
-print("Modified by Developer 2")
+   print("Modified by both Developer 1 and Developer 2")
